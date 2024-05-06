@@ -217,4 +217,4 @@ mazeMaze = [
 
 
 def getMaze() -> list:
-    return mazeMaze
+    return mazeBig

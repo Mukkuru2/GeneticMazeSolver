@@ -23,7 +23,7 @@ modifiers = {
         "geneLength": [0.01, 0.01],
         "backtrack": [1, 0]}}
 
-currentModifier = modifiers["coverage"]
+currentModifier = modifiers["distance"]
 modifierset = 0
 
 lastTopGenes = []
